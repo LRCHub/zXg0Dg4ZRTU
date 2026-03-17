@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Lady",
+  "base_artist": "大橋トリオ",
+  "createdAt": "2026-03-17T20:36:15.705513Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Home Sweet (feat. Lady A)",
+      "artist": "Russell Dickerson feat. Lady A",
+      "has_synced": true,
+      "path": "select/01_Home_Sweet_(feat._Lady_A)_Russell_Dickerson_feat._Lady_A.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Home Sweet (feat. Lady A)",
+      "artist": "Russell Dickerson",
+      "has_synced": true,
+      "path": "select/02_Home_Sweet_(feat._Lady_A)_Russell_Dickerson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lady",
+      "artist": "Brett Young",
+      "has_synced": true,
+      "path": "select/03_Lady_Brett_Young.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baby, Baby (I Know You're a Lady)",
+      "artist": "David Houston",
+      "has_synced": false,
+      "path": "select/04_Baby,_Baby_(I_Know_You're_a_Lady)_David_Houston.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Broken Lady",
+      "artist": "Larry Gatlin & The Gatlin Brothers",
+      "has_synced": true,
+      "path": "select/05_Broken_Lady_Larry_Gatlin_&_The_Gatlin_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Broken Lady (Album Version)",
+      "artist": "Larry Gatlin & The Gatlin Brothers",
+      "has_synced": true,
+      "path": "select/06_Broken_Lady_(Album_Version)_Larry_Gatlin_&_The_Gatlin_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lady",
+      "artist": "Kenny Rogers",
+      "has_synced": true,
+      "path": "select/07_Lady_Kenny_Rogers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lady Down On Love",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/08_Lady_Down_On_Love_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lady Lay Down",
+      "artist": "John Conlee",
+      "has_synced": true,
+      "path": "select/09_Lady_Lay_Down_John_Conlee.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lady Lay Down (Album Version)",
+      "artist": "John Conlee",
+      "has_synced": true,
+      "path": "select/10_Lady_Lay_Down_(Album_Version)_John_Conlee.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lady Like",
+      "artist": "Ingrid Andress",
+      "has_synced": true,
+      "path": "select/11_Lady_Like_Ingrid_Andress.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lady Like",
+      "artist": "Ingrid Andress",
+      "has_synced": true,
+      "path": "select/12_Lady_Like_Ingrid_Andress.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lady May",
+      "artist": "Tyler Childers",
+      "has_synced": true,
+      "path": "select/13_Lady_May_Tyler_Childers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Like A Lady",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/14_Like_A_Lady_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lady",
+      "artist": "大橋トリオ",
+      "has_synced": false,
+      "path": "select/pl_01_Lady_大橋トリオ.txt"
+    }
+  ]
+}
